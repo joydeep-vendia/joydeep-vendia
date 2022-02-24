@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joydeep-vendia
-- 👀 I’m interested in data sharing, cloud databases, serverless computing
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in data sharing, cloud databases, blockchain, serverless computing
+- 🌱 I’m currently learning blockchain
 - 💞️ I’m looking to collaborate on content writing, code samples, documentation
 - 📫 How to reach me joydeep@vendia.net
 
